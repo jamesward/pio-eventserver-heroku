@@ -42,5 +42,5 @@ else
 
     export PIO_STORAGE_SOURCES_PGSQL_URL=jdbc:postgresql://$hostport/$path
     export PIO_STORAGE_SOURCES_PGSQL_USERNAME=$user
-    export PIO_STORAGE_SOURCES_PGSQL_PASSWORD=$userpass
+    export PIO_STORAGE_SOURCES_PGSQL_PASSWORD=$pass
 fi
