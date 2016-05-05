@@ -1,0 +1,2 @@
+web: source bin/env.sh && target/universal/stage/bin/pio-eventserver-heroku -main EventServerApp
+console: source bin/env.sh && target/universal/stage/bin/pio-eventserver-heroku -main io.prediction.tools.console.Console
