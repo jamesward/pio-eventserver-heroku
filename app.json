@@ -1,0 +1,12 @@
+{
+  "name": "pio-eventserver-heroku",
+  "description": "A Heroku compatible PredictionIO Event Server",
+  "keywords": [
+    "predictionio",
+    "machinelearning"
+  ],
+  "repository": "https://github.com/jamesward/pio-eventserver-heroku",
+  "addons": [
+    "heroku-postgresql"
+  ]
+}
